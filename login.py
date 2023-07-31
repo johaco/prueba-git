@@ -1,1 +1,1 @@
-print("login main")
+print("login")
